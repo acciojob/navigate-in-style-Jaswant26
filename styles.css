@@ -6,6 +6,7 @@
 
         /* Style for the list items */
         .container ul {
+			display:flex;
             list-style: none; /* Remove bullets */
             padding: 0;
         }
