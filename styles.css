@@ -1,16 +1,17 @@
 /*  your css code here. If applicable */
-.navbar {
+.container{
             background-color: #D3D3D3;
             padding: 10px;
         }
 
         /* Style for the list items */
-        .navbar ul {
+        .container ul {
             list-style: none; /* Remove bullets */
             padding: 0;
         }
 
-        .navbar li {
+        .container li {
             display: inline; /* Display items horizontally */
             margin-right: 1rem; /* Add margin between items */
+			list-style-type:none;
         }
